@@ -2,163 +2,183 @@
     "dogs": [
         {
             "id": 0,
-            "name": "sally somalee",
-            "age": 10,
-            "height": 18,
-            "weight": 16,
-            "description": "healthy boy"
+            "name": "tim moon",
+            "age": 4,
+            "height": 45,
+            "weight": 8,
+            "description": "active girl",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGV8IfpLKY1qZGRiF5V_BLulbmKk3uA9LyA&usqp=CAU"
         },
         {
             "id": 1,
-            "name": "cutie ola",
+            "name": "tim pipi",
             "age": 6,
-            "height": 67,
-            "weight": 20,
-            "description": "excited girl"
+            "height": 59,
+            "weight": 10,
+            "description": "naughty girl",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGV8IfpLKY1qZGRiF5V_BLulbmKk3uA9LyA&usqp=CAU"
         },
         {
             "id": 2,
-            "name": "cutie ola",
-            "age": 11,
-            "height": 43,
-            "weight": 23,
-            "description": "quiet beast"
+            "name": "captain ola",
+            "age": 2,
+            "height": 33,
+            "weight": 28,
+            "description": "active beast",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuoNuPRHT99qHNwA_kIwouhgqZgRhL_OX-w&usqp=CAU"
         },
         {
             "id": 3,
-            "name": "tim moon",
-            "age": 3,
-            "height": 47,
-            "weight": 15,
-            "description": "quiet girl"
+            "name": "bambee ola",
+            "age": 8,
+            "height": 16,
+            "weight": 20,
+            "description": "healthy girl",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJeVu4Bd2mwTFx6j5Tsqr4e1i8VrS0ZFEPw&usqp=CAU"
         },
         {
             "id": 4,
-            "name": "tim bomboo",
+            "name": "sailor moon",
             "age": 11,
-            "height": 44,
-            "weight": 12,
-            "description": "quiet beast"
+            "height": 16,
+            "weight": 20,
+            "description": "excited beast",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZtmcKMAebCm9m1vdU5CJvbCUKMNLnaw3IRw&usqp=CAU"
         },
         {
             "id": 5,
-            "name": "cutie pipi",
-            "age": 11,
-            "height": 24,
-            "weight": 25,
-            "description": "naughty boy"
+            "name": "cutie ola",
+            "age": 8,
+            "height": 67,
+            "weight": 18,
+            "description": "jumpy beast",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuoNuPRHT99qHNwA_kIwouhgqZgRhL_OX-w&usqp=CAU"
         },
         {
             "id": 6,
-            "name": "bambee somalee",
-            "age": 9,
-            "height": 79,
+            "name": "sailor bowsky",
+            "age": 10,
+            "height": 67,
             "weight": 16,
-            "description": "quiet girl"
+            "description": "healthy beast",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuoNuPRHT99qHNwA_kIwouhgqZgRhL_OX-w&usqp=CAU"
         },
         {
             "id": 7,
-            "name": "sally pipi",
-            "age": 3,
-            "height": 68,
-            "weight": 18,
-            "description": "quiet boy"
+            "name": "sally moon",
+            "age": 7,
+            "height": 19,
+            "weight": 14,
+            "description": "jumpy boy",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuoNuPRHT99qHNwA_kIwouhgqZgRhL_OX-w&usqp=CAU"
         },
         {
             "id": 8,
-            "name": "sailor bomboo",
-            "age": 8,
-            "height": 76,
-            "weight": 10,
-            "description": "naughty boy"
+            "name": "bambee bowsky",
+            "age": 9,
+            "height": 16,
+            "weight": 13,
+            "description": "quiet girl",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGV8IfpLKY1qZGRiF5V_BLulbmKk3uA9LyA&usqp=CAU"
         },
         {
             "id": 9,
-            "name": "captain pipi",
-            "age": 3,
-            "height": 75,
-            "weight": 15,
-            "description": "active girl"
+            "name": "captain bomboo",
+            "age": 11,
+            "height": 58,
+            "weight": 27,
+            "description": "jumpy girl",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGV8IfpLKY1qZGRiF5V_BLulbmKk3uA9LyA&usqp=CAU"
         },
         {
             "id": 10,
-            "name": "tim moon",
-            "age": 11,
-            "height": 34,
-            "weight": 21,
-            "description": "active beast"
+            "name": "sailor pipi",
+            "age": 4,
+            "height": 23,
+            "weight": 5,
+            "description": "excited boy",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuoNuPRHT99qHNwA_kIwouhgqZgRhL_OX-w&usqp=CAU"
         },
         {
             "id": 11,
-            "name": "tim pipi",
+            "name": "cutie somalee",
             "age": 8,
-            "height": 31,
-            "weight": 11,
-            "description": "excited girl"
+            "height": 66,
+            "weight": 7,
+            "description": "excited girl",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuoNuPRHT99qHNwA_kIwouhgqZgRhL_OX-w&usqp=CAU"
         },
         {
             "id": 12,
-            "name": "tim ola",
-            "age": 4,
-            "height": 63,
-            "weight": 28,
-            "description": "quiet girl"
+            "name": "captain bowsky",
+            "age": 8,
+            "height": 62,
+            "weight": 13,
+            "description": "healthy boy",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjlZxhOG30OMIqLCT_sHdvirRXMmXi6Cu_qg&usqp=CAU"
         },
         {
             "id": 13,
-            "name": "captain pipi",
-            "age": 11,
-            "height": 56,
-            "weight": 17,
-            "description": "naughty boy"
+            "name": "bambee somalee",
+            "age": 8,
+            "height": 21,
+            "weight": 28,
+            "description": "excited boy",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZtmcKMAebCm9m1vdU5CJvbCUKMNLnaw3IRw&usqp=CAU"
         },
         {
             "id": 14,
-            "name": "captain moon",
-            "age": 11,
-            "height": 23,
-            "weight": 15,
-            "description": "healthy girl"
+            "name": "cutie pipi",
+            "age": 9,
+            "height": 32,
+            "weight": 23,
+            "description": "excited boy",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGV8IfpLKY1qZGRiF5V_BLulbmKk3uA9LyA&usqp=CAU"
         },
         {
             "id": 15,
-            "name": "sailor ola",
-            "age": 5,
-            "height": 77,
-            "weight": 22,
-            "description": "quiet girl"
+            "name": "sally pipi",
+            "age": 4,
+            "height": 45,
+            "weight": 17,
+            "description": "active beast",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjlZxhOG30OMIqLCT_sHdvirRXMmXi6Cu_qg&usqp=CAU"
         },
         {
             "id": 16,
-            "name": "sailor somalee",
-            "age": 6,
-            "height": 60,
-            "weight": 25,
-            "description": "healthy beast"
+            "name": "sally moon",
+            "age": 3,
+            "height": 62,
+            "weight": 12,
+            "description": "naughty girl",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZtmcKMAebCm9m1vdU5CJvbCUKMNLnaw3IRw&usqp=CAU"
         },
         {
             "id": 17,
-            "name": "captain bomboo",
-            "age": 11,
-            "height": 30,
-            "weight": 29,
-            "description": "active girl"
+            "name": "sailor moon",
+            "age": 7,
+            "height": 21,
+            "weight": 19,
+            "description": "jumpy boy",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZtmcKMAebCm9m1vdU5CJvbCUKMNLnaw3IRw&usqp=CAU"
         },
         {
             "id": 18,
-            "name": "sailor somalee",
-            "age": 11,
-            "height": 25,
-            "weight": 16,
-            "description": "jumpy boy"
+            "name": "tim moon",
+            "age": 8,
+            "height": 64,
+            "weight": 19,
+            "description": "naughty girl",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJeVu4Bd2mwTFx6j5Tsqr4e1i8VrS0ZFEPw&usqp=CAU"
         },
         {
             "id": 19,
-            "name": "cutie somalee",
-            "age": 4,
-            "height": 55,
-            "weight": 28,
-            "description": "healthy beast"
+            "name": "captain somalee",
+            "age": 6,
+            "height": 61,
+            "weight": 9,
+            "description": "healthy boy",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuoNuPRHT99qHNwA_kIwouhgqZgRhL_OX-w&usqp=CAU"
         }
     ]
 }
