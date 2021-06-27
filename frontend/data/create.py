@@ -22,7 +22,7 @@ class Dog:
             first_name[randint(0, len(first_name) - 1)]
             + " "
             + last_name[randint(0, len(last_name) - 1)]
-        )
+        ).title()
 
     @staticmethod
     def gen_description():
@@ -32,7 +32,7 @@ class Dog:
             description_1[randint(0, len(description_1) - 1)]
             + " "
             + description_2[randint(0, len(description_2) - 1)]
-        )
+        ).title()
 
     @staticmethod
     def gen_url():

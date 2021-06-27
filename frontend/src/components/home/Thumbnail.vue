@@ -4,9 +4,9 @@
       <img :src="dog.url" :alt="dog.name" />
     </div>
     <div class="information">
-      <p>Name: {{ dog.name }}</p>
+      <p>{{ dog.name }}</p>
       <p>Age: {{ dog.age }}</p>
-      <p>Description: {{ dog.description }}</p>
+      <p>{{ dog.description }}</p>
     </div>
   </div>
 </template>
