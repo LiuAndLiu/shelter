@@ -1,0 +1,164 @@
+{
+    "dogs": [
+        {
+            "id": 0,
+            "name": "sally somalee",
+            "age": 10,
+            "height": 18,
+            "weight": 16,
+            "description": "healthy boy"
+        },
+        {
+            "id": 1,
+            "name": "cutie ola",
+            "age": 6,
+            "height": 67,
+            "weight": 20,
+            "description": "excited girl"
+        },
+        {
+            "id": 2,
+            "name": "cutie ola",
+            "age": 11,
+            "height": 43,
+            "weight": 23,
+            "description": "quiet beast"
+        },
+        {
+            "id": 3,
+            "name": "tim moon",
+            "age": 3,
+            "height": 47,
+            "weight": 15,
+            "description": "quiet girl"
+        },
+        {
+            "id": 4,
+            "name": "tim bomboo",
+            "age": 11,
+            "height": 44,
+            "weight": 12,
+            "description": "quiet beast"
+        },
+        {
+            "id": 5,
+            "name": "cutie pipi",
+            "age": 11,
+            "height": 24,
+            "weight": 25,
+            "description": "naughty boy"
+        },
+        {
+            "id": 6,
+            "name": "bambee somalee",
+            "age": 9,
+            "height": 79,
+            "weight": 16,
+            "description": "quiet girl"
+        },
+        {
+            "id": 7,
+            "name": "sally pipi",
+            "age": 3,
+            "height": 68,
+            "weight": 18,
+            "description": "quiet boy"
+        },
+        {
+            "id": 8,
+            "name": "sailor bomboo",
+            "age": 8,
+            "height": 76,
+            "weight": 10,
+            "description": "naughty boy"
+        },
+        {
+            "id": 9,
+            "name": "captain pipi",
+            "age": 3,
+            "height": 75,
+            "weight": 15,
+            "description": "active girl"
+        },
+        {
+            "id": 10,
+            "name": "tim moon",
+            "age": 11,
+            "height": 34,
+            "weight": 21,
+            "description": "active beast"
+        },
+        {
+            "id": 11,
+            "name": "tim pipi",
+            "age": 8,
+            "height": 31,
+            "weight": 11,
+            "description": "excited girl"
+        },
+        {
+            "id": 12,
+            "name": "tim ola",
+            "age": 4,
+            "height": 63,
+            "weight": 28,
+            "description": "quiet girl"
+        },
+        {
+            "id": 13,
+            "name": "captain pipi",
+            "age": 11,
+            "height": 56,
+            "weight": 17,
+            "description": "naughty boy"
+        },
+        {
+            "id": 14,
+            "name": "captain moon",
+            "age": 11,
+            "height": 23,
+            "weight": 15,
+            "description": "healthy girl"
+        },
+        {
+            "id": 15,
+            "name": "sailor ola",
+            "age": 5,
+            "height": 77,
+            "weight": 22,
+            "description": "quiet girl"
+        },
+        {
+            "id": 16,
+            "name": "sailor somalee",
+            "age": 6,
+            "height": 60,
+            "weight": 25,
+            "description": "healthy beast"
+        },
+        {
+            "id": 17,
+            "name": "captain bomboo",
+            "age": 11,
+            "height": 30,
+            "weight": 29,
+            "description": "active girl"
+        },
+        {
+            "id": 18,
+            "name": "sailor somalee",
+            "age": 11,
+            "height": 25,
+            "weight": 16,
+            "description": "jumpy boy"
+        },
+        {
+            "id": 19,
+            "name": "cutie somalee",
+            "age": 4,
+            "height": 55,
+            "weight": 28,
+            "description": "healthy beast"
+        }
+    ]
+}
