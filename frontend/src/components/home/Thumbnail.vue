@@ -16,7 +16,7 @@ export default {
   props: ["dog"],
   methods: {
     handleRedirect() {
-      console.log("Redirecting");
+      this.$router.push({ name: "Profile", params: { id: this.dog.id } });
     },
   },
 };
@@ -30,11 +30,11 @@ div.thumbnail {
 
 div.image {
   display: flex;
-  align-content: center;
   justify-content: center;
   overflow: hidden;
   width: auto;
   height: 65%;
+  cursor: pointer;
 }
 
 div.information {

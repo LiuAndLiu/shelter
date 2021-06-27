@@ -5,9 +5,7 @@
     <router-view />
   </main>
 
-  <footer>
-    <Footer />
-  </footer>
+  <Footer />
 </template>
 
 <script>
@@ -21,9 +19,9 @@ export default {
 </script>
 
 <style>
-* {
+/* * {
   border: 1px black solid;
-}
+} */
 
 html {
   font-size: 18px;
@@ -50,9 +48,5 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-footer {
-  height: 6rem;
 }
 </style>
