@@ -1,7 +1,5 @@
 <template>
-  <header>
-    <Header />
-  </header>
+  <Header />
   <NavBar />
   <main>
     <router-view />
@@ -45,10 +43,6 @@ body {
   width: 80%;
   margin: 0 auto;
   height: auto;
-}
-
-header {
-  height: 6rem;
 }
 
 main {
