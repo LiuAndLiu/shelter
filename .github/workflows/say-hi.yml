@@ -1,0 +1,14 @@
+name: say-hi
+
+on:
+  push:
+    branches:
+      - "**"
+
+jobs:
+  say-hi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Say Hi"
+        run: echo Hi!
+    
